@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ja"
+"ResourceDimensions"		"language-ja-jp"
+
+[Files]
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\obj\Release\split.language-ja.pri"			"resources.pri"

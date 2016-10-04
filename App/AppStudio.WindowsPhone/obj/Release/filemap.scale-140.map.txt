@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.WindowsPhone\obj\Release\filemap.scale-140.pri"			"resources.pri"
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"

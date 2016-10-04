@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\obj\Release\split.scale-180.pri"			"resources.pri"
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\obj\Release\PackageLayout\Assets\SmallLogo.scale-180.png"			"Assets\SmallLogo.scale-180.png"

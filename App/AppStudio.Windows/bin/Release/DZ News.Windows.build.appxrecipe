@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AO</Machine>
+    <WindowsUser>user</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>48112BAHRIAbdelhak.DZNews</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Data\bin\Release\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\packages\Newtonsoft.Json.6.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Data\bin\Release\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Data\bin\Release\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\ErrorImage.png">
+      <PackagePath>Assets\ErrorImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Views\DataTemplates\ElheddafViews.xaml">
+      <PackagePath>Views\DataTemplates\ElheddafViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Views\DataTemplates\EchoroukViews.xaml">
+      <PackagePath>Views\DataTemplates\EchoroukViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Views\DataTemplates\ElwatanViews.xaml">
+      <PackagePath>Views\DataTemplates\ElwatanViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Views\DataTemplates\LexpressionViews.xaml">
+      <PackagePath>Views\DataTemplates\LexpressionViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\Views\DataTemplates\LiberteViews.xaml">
+      <PackagePath>Views\DataTemplates\LiberteViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\Data\ElheddafDataSource.json">
+      <PackagePath>Assets\Data\ElheddafDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\Data\EchoroukDataSource.json">
+      <PackagePath>Assets\Data\EchoroukDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\Data\ElwatanDataSource.json">
+      <PackagePath>Assets\Data\ElwatanDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\Data\LexpressionDataSource.json">
+      <PackagePath>Assets\Data\LexpressionDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Shared\Assets\Data\LiberteDataSource.json">
+      <PackagePath>Assets\Data\LiberteDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\AppFlyouts\PrivacyFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\PrivacyFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\ElheddafList.xbf">
+      <PackagePath>Views\ElheddafList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\ElheddafDetailPage.xbf">
+      <PackagePath>Views\ElheddafDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\EchoroukList.xbf">
+      <PackagePath>Views\EchoroukList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\EchoroukDetailPage.xbf">
+      <PackagePath>Views\EchoroukDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\ElwatanList.xbf">
+      <PackagePath>Views\ElwatanList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\ElwatanDetailPage.xbf">
+      <PackagePath>Views\ElwatanDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\LexpressionList.xbf">
+      <PackagePath>Views\LexpressionList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\LexpressionDetailPage.xbf">
+      <PackagePath>Views\LexpressionDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\LiberteList.xbf">
+      <PackagePath>Views\LiberteList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Views\LiberteDetailPage.xbf">
+      <PackagePath>Views\LiberteDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

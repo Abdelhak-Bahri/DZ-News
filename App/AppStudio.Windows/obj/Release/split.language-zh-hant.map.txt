@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+
+[Files]
+"C:\Users\user\Desktop\Devcamp2.DZNEWS\2000_14032015\App\AppStudio.Windows\obj\Release\split.language-zh-hant.pri"			"resources.pri"
